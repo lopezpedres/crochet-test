@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Dev local banner from test branch",
+            "heading": "Dev local banner from dev branch",
             "heading_size": "h0"
           }
         },
